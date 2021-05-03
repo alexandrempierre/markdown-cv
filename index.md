@@ -89,17 +89,25 @@ Inglês
 
 ## Linguagens de Programação, Bibliotecas e Ferramentas Computacionais
 
-`C`, `Scilab`, `Python`
+C
+
+Python
   * openpyxl
   * pandas
   * matplotlib
   * numpy
   * scipy
   * opencv
-* SQL
-* JSON, HTML e XML
-* Git
-* Linux
+
+Scilab
+
+SQL
+
+JSON, HTML e XML
+
+Git
+
+Linux
 
 <!--Isso também é parte de Extra activities-->
 ## Projetos Paralelos
