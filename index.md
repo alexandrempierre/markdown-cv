@@ -18,7 +18,7 @@ Desenvolvedor Python, Graduando em Ciência da Computação.
 Escrever o TCC para me formar no Bacharelado em Ciência da Computação da Universidade Federal do Rio de Janeiro. O objeto de estudo é um método de solução de equações integrais usando Wavelets.
 
 <!--## Teaching Experience-->
-## Experiência Profissional
+## Experiência
 
 `Dez 2020` __Facilitador de tecnologia__ na Resilia Educação: conduzir, em conjunto com a facilitadora mais focada em soft skills, uma experiência de aprendizagem ativa em modelagem e consultas a Bancos de Dados no curso de formação de Desenvolvedor FullStack
 
@@ -55,7 +55,7 @@ Escrever o TCC para me formar no Bacharelado em Ciência da Computação da Univ
 `2014` __Monitor de Introdução à Programação (Python)__ na UFRJ: auxiliar o professor nas aulas, teóricas ou práticas, de programação em Python; nessa disciplina se estudava o básico, declaração de variáveis, funções, passagem de parâmetros por valor ou referência, estruturas de controle de fluxo (condicionais e de repetição) e o básico de manipulação de strings
 
 <!--## Secondments-->
-## Representação, Grupos e Projetos de Extensão
+## Extensão
 
 `2014-2015` Diretor no Centro Acadêmico de Ciência da Computação da Universidade Federal do Rio de Janeiro (UFRJ)
 
@@ -64,7 +64,7 @@ Escrever o TCC para me formar no Bacharelado em Ciência da Computação da Univ
 `2014` Assessor de Pesquisa e Desenvolvimento Empresa Junior de Consultoria em Microinformática (EJCM): definir guia de estilo de código e estudar tecnologias que poderiam entrar no portfólio da EJCM
 
 <!--## Presentations-->
-## Apresentação de Trabalhos Acadêmicos
+## Apresentação de Trabalhos
 
 "Geometria e Otimização em Dinâmica de Corpos Deformáveis" Apresentação Oral na 10ª Semana de Integração Acadêmica, Rio de Janeiro, 21-27 de Outubro de 2019
 
@@ -87,23 +87,19 @@ __Aluno de Processamento de Imagens__ com a professora Luziane Mendonça na UFRJ
 
 Inglês
 
-## Linguagens de Programação, Bibliotecas e Ferramentas Computacionais
+## Tecnologias
 
 C
 
-Python
-  * openpyxl
-  * pandas
-  * matplotlib
-  * numpy
-  * scipy
-  * opencv
+Python: openpyxl, pandas, matplotlib, numpy, scipy, opencv
 
 Scilab
 
 SQL
 
-JSON, HTML e XML
+JSON
+
+HTML
 
 Git
 
@@ -116,7 +112,7 @@ __Concurrent Quicksort__: um quicksort concorrente com várias pequenas otimiza�
 
 __PThread Forward AutoDiff__: um diferenciador automático direto concorrente, a partir da extensão complexa de uma função de várias variáveis reais retorna sua matriz jacobiana, os detalhes estão explicados no [repositório](https://github.com/alexandrempierre/pthread-forward-autodiff)
 
-__Tableau__: resolvedor de bancos de dados pelo método do Tableaux no ocntexto da Lógica Clássica de Primeira Ordem usando o parser do NLTK, [link para o repositório](https://github.com/alexandrempierre/tableau)
+__Tableau__: resolvedor de bancos de dados pelo método do Tableaux para Lógica Clássica de Primeira Ordem usando o parser do NLTK, [link para o repositório](https://github.com/alexandrempierre/tableau)
 
 <!--Mudanças que eu fizer no meu fork desse currículo entram aqui (em Extras)-->
 
