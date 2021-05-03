@@ -46,11 +46,11 @@ Escrever o TCC para me formar no Bacharelado em Ciência da Computação da Univ
 
 `2018-2019` Bolsista de Pesquisa na UFRJ: estudar a dinâmica de corpos deformáveis explorando o movimento de um gato que caia de pé após começar o movimento com as patas viradas para o alto e outros pequenos problemas da área
 
-`2017-2019` __Analista de Dados__ no Laboratório de Matemática Aplicada (LabMA) da UFRJ: escrever consultas em SQL para a base com os dados dos clientes de seguradoras, buscando por problemas nos dados e discutindo a melhor forma de resolvê-los ou contorná-los e gerando estatísticas e gráficos com o auxílio de Python, Matplotlib e Notebooks do Jupyter
+`2017-2019` __Analista de Dados__ no Laboratório de Matemática Aplicada (LabMA) da UFRJ: fazer consultas em SQL na base de dados dos clientes de seguradoras procurando por problemas nos dados; gerar estatísticas e gráficos usando Python, Matplotlib e Jupyter
 
-`2016-2018` __Monitor de Álgebra Linear Algorítmica__ na UFRJ: auxiliar os alunos no aprendizado de conceitos de Álgebra Linear como Espaços Vetoriais, Base e Dimensão e nas partes em mais ligadas a cálculos como Diagonalizações e Solução de Sistemas Lineares, além de ajudar na implementação de algoritmos de Álgebra Linear Numérica como a Ortonormalização de Gram-Schmidt e a decomposição SVD; enquanto fui monitor diversas linguagens de programação foram usadas nas implementações, como Scilab, Python e Maxima
+`2016-2018` __Monitor de Álgebra Linear Algorítmica__ na UFRJ: ajudar no aprendizado de conceitos, cálculos e algoritmos numéricos de Álgebra Linear; as linguagens de programação usadas nas implementações foram Scilab, Python e Maxima
 
-`2016` Monitor da Equipe de Workstations do Laboratório de Computação e Informática (LCI) da UFRJ: preparar os computadores dos laboratórios para serem usados pelos estudantes do bacharelado em Ciência da Computação da UFRJ, garantindo que o software necessário estaria instalado e tirando dos laboratórios computadores que não estivessem utilizáveis
+`2016` Monitor da Equipe de Workstations do Laboratório de Computação e Informática (LCI) da UFRJ: preparar os computadores dos laboratórios para serem usados pelos estudantes, garantindo a instalação do software necessário e que não houvessem computadores inutilizáveis nos laboratórios
 
 `2014` __Monitor de Introdução à Programação (Python)__ na UFRJ: auxiliar o professor nas aulas, teóricas ou práticas, de programação em Python; nessa disciplina se estudava o básico, declaração de variáveis, funções, passagem de parâmetros por valor ou referência, estruturas de controle de fluxo (condicionais e de repetição) e o básico de manipulação de strings
 
@@ -80,7 +80,7 @@ __Voluntário na equipe de apoio__ do International Congress of Mathematicians -
 
 __Aluno de Programação Não-Linear__ com a professora Luziane Mendonça na Universidade Federal do Rio de Janeiro (UFRJ), Mar-Jun 2018: nessa disciplina vimos vários métodos metaheurísticos de otimização como Simmulated Annealing, Algoritmos Genéticos, Firefly Algortihm e Ant Colony
 
-__Aluno de Processamento de Imagens__ com a professora Luziane Mendonça na UFRJ, Jul-Nov 2018: nessa disciplina foram dados alguns tópicos como uso de filtros (Gaussiano e Scharr) e Transformadas (Fourier e Hough) para suavização e  Esqueletização; um dos trabalhos da disciplina foi fazer detecção de contornos em imagens específicas, os resultados estão [nesse repositório](https://github.com/alexandrempierre/pnl2-trabalho-2)
+__Aluno de Processamento de Imagens__ com a professora Luziane Mendonça na UFRJ, Jul-Nov 2018: nessa disciplina foram dados alguns tópicos como uso de Filtros e Transformadas para suavização e Esqueletização; um dos trabalhos da disciplina foi fazer detecção de contornos em imagens específicas, os resultados estão [nesse repositório](https://github.com/alexandrempierre/pnl2-trabalho-2)
 
 <!--## Languages and Computing Skills-->
 ## Idiomas
@@ -110,7 +110,7 @@ Linux
 
 __Concurrent Quicksort__: um quicksort concorrente com várias pequenas otimizações escrito em C, mais detalhes no [repositório](https://github.com/alexandrempierre/concurrent-quicksort)
 
-__PThread Forward AutoDiff__: um diferenciador automático direto concorrente, a partir da extensão complexa de uma função de várias variáveis reais retorna sua matriz jacobiana, os detalhes estão explicados no [repositório](https://github.com/alexandrempierre/pthread-forward-autodiff)
+__PThread Forward AutoDiff__: um diferenciador automático concorrente, usa a extensão de uma função de várias variáveis Reais para os Complexos, retorna sua matriz jacobiana; os detalhes estão explicados no [repositório](https://github.com/alexandrempierre/pthread-forward-autodiff)
 
 __Tableau__: resolvedor de bancos de dados pelo método do Tableaux para Lógica Clássica de Primeira Ordem usando o parser do NLTK, [link para o repositório](https://github.com/alexandrempierre/tableau)
 
