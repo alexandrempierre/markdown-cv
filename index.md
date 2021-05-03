@@ -20,7 +20,7 @@ Escrever o TCC para me formar no Bacharelado em Ciência da Computação da Univ
 <!--## Teaching Experience-->
 ## Experiência
 
-`Dez 2020` __Facilitador de tecnologia__ na Resilia Educação: conduzir, em conjunto com a facilitadora mais focada em soft skills, uma experiência de aprendizagem ativa em modelagem e consultas a Bancos de Dados no curso de formação de Desenvolvedor FullStack
+`Dez 2020` __Facilitador de tecnologia__ na Resilia Educação: conduzir, em conjunto com a facilitadora mais focada em soft skills, uma experiência de aprendizagem ativa em modelagem e consultas a Bancos de Dados Relacionais no curso de formação de Desenvolvedor FullStack
 
 `2019` __Desenvolvedor Python Pleno__ na Noorden Group: alocado na Norsk Hydro Energia, a rotina consistia em fazer scripts para automatizar tarefas que antes eram feitas manualmente, como raspagem de dados que saíam diariamente, leitura de arquivos em formatos como pdf, txt, csv e xlsx, e retornar planilhas em xlsx; algumas das tarefas incluíam backup de alguns dos dados; os scripts eram feitos em Python ou Bash e tinham sua execução agendada em crontab; toda a comunicação do dia-a-dia era em Inglês, fosse falada ou escrita
 
@@ -29,7 +29,7 @@ Escrever o TCC para me formar no Bacharelado em Ciência da Computação da Univ
 <!--## Education-->
 ## Formação
 
-`2013-` __Bacharelado em Ciência da Computação__ na Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro
+`2013-atual` __Bacharelado em Ciência da Computação__ na Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro
 
 `2012` Ensino Médio: Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET-RJ), Rio de Janeiro
 
