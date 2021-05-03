@@ -22,7 +22,7 @@ Escrever o TCC para me formar no Bacharelado em Ciência da Computação da Univ
 
 `Dez 2020` __Facilitador de tecnologia__ na Resilia Educação: conduzir, em conjunto com a facilitadora mais focada em soft skills, uma experiência de aprendizagem ativa em modelagem e consultas a Bancos de Dados no curso de formação de Desenvolvedor FullStack
 
-`2019` __Desenvolvedor Python Pleno__ na Noorden Group: alocado na Norsk Hydro Energia, minha rotina consistia em fazer scripts para automatizar tarefas que antes eram feitas manualmente por outras pessoas, nisso se inclui raspagens de dados que saíam diariamente, leitura de arquivos em diversos formatos como pdf, txt, csv e xlsx e produzir uma saída que mais frequentemente era uma planilha em xlsx; algumas das tarefas incluíam backup de partes dos dados de entrada; a maior parte dos scripts era escrito em Python outros eram feitos em Bash e quase todos tinham sua execução disparada por uma tarefa registrada na crontab; toda a comunicação do dia-a-dia era em Inglês, fossem conversas ou emails
+`2019` __Desenvolvedor Python Pleno__ na Noorden Group: alocado na Norsk Hydro Energia, a rotina consistia em fazer scripts para automatizar tarefas que antes eram feitas manualmente, como raspagem de dados que saíam diariamente, leitura de arquivos em formatos como pdf, txt, csv e xlsx, e retornar planilhas em xlsx; algumas das tarefas incluíam backup de alguns dos dados; os scripts eram feitos em Python ou Bash e tinham sua execução agendada em crontab; toda a comunicação do dia-a-dia era em Inglês, fosse falada ou escrita
 
 <!--## Research Experience-->
 
@@ -42,26 +42,26 @@ Escrever o TCC para me formar no Bacharelado em Ciência da Computação da Univ
 <!--## Scholarships-->
 ## Bolsas
 
-`2020` __Monitor de Álgebra Linear Algorítmica__ na Universidade Federal do Rio de Janeiro (UFRJ)
+`2020` __Monitor de Álgebra Linear Algorítmica__ na Universidade Federal do Rio de Janeiro (UFRJ): ajudar no aprendizado de conceitos, cálculos e algoritmos numéricos de Álgebra Linear; as linguagens de programação usadas nas implementações foram Scilab, Python e Maxima
 
 `2018-2019` Bolsista de Pesquisa na UFRJ: estudar a dinâmica de corpos deformáveis explorando o movimento de um gato que caia de pé após começar o movimento com as patas viradas para o alto e outros pequenos problemas da área
 
 `2017-2019` __Analista de Dados__ no Laboratório de Matemática Aplicada (LabMA) da UFRJ: fazer consultas em SQL na base de dados dos clientes de seguradoras procurando por problemas nos dados; gerar estatísticas e gráficos usando Python, Matplotlib e Jupyter
 
-`2016-2018` __Monitor de Álgebra Linear Algorítmica__ na UFRJ: ajudar no aprendizado de conceitos, cálculos e algoritmos numéricos de Álgebra Linear; as linguagens de programação usadas nas implementações foram Scilab, Python e Maxima
+<!-- `2016-2018` __Monitor de Álgebra Linear Algorítmica__ na UFRJ: ajudar no aprendizado de conceitos, cálculos e algoritmos numéricos de Álgebra Linear; as linguagens de programação usadas nas implementações foram Scilab, Python e Maxima -->
 
-`2016` Monitor da Equipe de Workstations do Laboratório de Computação e Informática (LCI) da UFRJ: preparar os computadores dos laboratórios para serem usados pelos estudantes, garantindo a instalação do software necessário e que não houvessem computadores inutilizáveis nos laboratórios
+<!-- `2016` Monitor da Equipe de Workstations do Laboratório de Computação e Informática (LCI) da UFRJ: preparar os computadores dos laboratórios para serem usados pelos estudantes, garantindo a instalação do software necessário e que não houvessem computadores inutilizáveis nos laboratórios -->
 
 `2014` __Monitor de Introdução à Programação (Python)__ na UFRJ: auxiliar o professor nas aulas, teóricas ou práticas, de programação em Python; nessa disciplina se estudava o básico, declaração de variáveis, funções, passagem de parâmetros por valor ou referência, estruturas de controle de fluxo (condicionais e de repetição) e o básico de manipulação de strings
 
 <!--## Secondments-->
-## Extensão
+<!--## Extensão
 
 `2014-2015` Diretor no Centro Acadêmico de Ciência da Computação da Universidade Federal do Rio de Janeiro (UFRJ)
 
 `2015` Assessor Comercial na Empresa Junior de Consultoria em Microinformática (EJCM): fazer primeiro contato com o cliente e levantar requisitos de desenvolvimento
 
-`2014` Assessor de Pesquisa e Desenvolvimento Empresa Junior de Consultoria em Microinformática (EJCM): definir guia de estilo de código e estudar tecnologias que poderiam entrar no portfólio da EJCM
+`2014` Assessor de Pesquisa e Desenvolvimento Empresa Junior de Consultoria em Microinformática (EJCM): definir guia de estilo de código e estudar tecnologias que poderiam entrar no portfólio da EJCM -->
 
 <!--## Presentations-->
 ## Apresentação de Trabalhos
