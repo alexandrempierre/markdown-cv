@@ -85,11 +85,11 @@ __Aluno de Processamento de Imagens__ com a professora Luziane Mendonça na UFRJ
 <!--## Languages and Computing Skills-->
 ## Idiomas
 
-`Inglês`
+Inglês
 
 ## Linguagens de Programação, Bibliotecas e Ferramentas Computacionais
 
-`C` `Scilab` `Python`
+`C`, `Scilab`, `Python`
   * openpyxl
   * pandas
   * matplotlib
@@ -105,7 +105,9 @@ __Aluno de Processamento de Imagens__ com a professora Luziane Mendonça na UFRJ
 ## Projetos Paralelos
 
 __Concurrent Quicksort__: um quicksort concorrente com várias pequenas otimizações escrito em C, mais detalhes no [repositório](https://github.com/alexandrempierre/concurrent-quicksort)
+
 __PThread Forward AutoDiff__: um diferenciador automático direto concorrente, a partir da extensão complexa de uma função de várias variáveis reais retorna sua matriz jacobiana, os detalhes estão explicados no [repositório](https://github.com/alexandrempierre/pthread-forward-autodiff)
+
 __Tableau__: resolvedor de bancos de dados pelo método do Tableaux no ocntexto da Lógica Clássica de Primeira Ordem usando o parser do NLTK, [link para o repositório](https://github.com/alexandrempierre/tableau)
 
 <!--Mudanças que eu fizer no meu fork desse currículo entram aqui (em Extras)-->
