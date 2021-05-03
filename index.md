@@ -13,7 +13,7 @@ Desenvolvedor Python, Graduando em Ciência da Computação.
 
 
 <!--## Currently-->
-## Atividade Atual
+## Atualmente
 
 Escrever o TCC para me formar no Bacharelado em Ciência da Computação da Universidade Federal do Rio de Janeiro. O objeto de estudo é um método de solução de equações integrais usando Wavelets.
 
