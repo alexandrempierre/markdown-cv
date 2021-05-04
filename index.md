@@ -7,8 +7,8 @@ Desenvolvedor Python, Graduando em Ciência da Computação.
 
 <div id="webaddress">
 <a href="mailto:alexandrempierre@gmail.com">alexandrempierre@gmail.com</a>
-| <a href="https://www.linkedin.com/in/alexandrempierre">linkedin.com/in/alexandrempierre</a> <br />
-| <a href="https://github.com/alexandrempierre">github.com/alexandrempierre</a>
+| <a href="https://www.linkedin.com/in/alexandrempierre">linkedin.com/in/alexandrempierre</a>
+| <br /> <a href="https://github.com/alexandrempierre">github.com/alexandrempierre</a>
 </div>
 
 
